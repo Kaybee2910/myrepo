@@ -3,12 +3,6 @@ testing remote repo
 ---
 ----
 ----
-# ✅ DevOps Roadmap (2025–2028 Edition)
-
-## 🎯 Goal:
-Become a **future-ready DevOps/Platform Engineer** with strong AI, cloud, automation, and security skills.
-
----
 
 ## 🧩 Stage 1: Core Foundation (0–6 months)
 
